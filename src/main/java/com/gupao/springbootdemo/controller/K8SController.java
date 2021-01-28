@@ -22,6 +22,6 @@ public class K8SController {
         }catch(Exception e){
             e.printStackTrace();
         }
-        return "hello K8s <br/> "+result;
+        return "hello K8s xxxx<br/> "+result;
     }
 }
